@@ -1,0 +1,14 @@
+# Last updated: 2025-05-02
+# Version: 1.0.0
+
+---
+# Repository metadata
+metadata:
+  name: "wadah-templates"
+  description: ""
+  version: "0.1.2y"
+  maintained_by: "Engineering Team"
+  documentation: "https://tech.raizora.com"
+
+# Repository type
+type: docs
