@@ -1,23 +1,12 @@
 [
-    {
-        "action": "remove",
-        "files": [
-            "apps",
-            "packages",
-            "templates",
-            "template-astro",
-            "template-fastapi-ai",
-            "template-golang",
-            "template-nextjs",
-            "template-react-app",
-            "template-react-ssr",
-            "template-shared-ui",
-            "template-strapi",
-            "pnpm-lock.yaml",
-            "CONTRIBUTING.md",
-            "README.md",
-            "TASKS.md",
-            ".github"
-        ]
-    }
+  {
+    "action": "remove",
+    "files": [
+      "apps",
+      "configs",
+      ".github",
+      "CONTRIBUTING.md",
+      "README.md"
+    ]
+  }
 ]
